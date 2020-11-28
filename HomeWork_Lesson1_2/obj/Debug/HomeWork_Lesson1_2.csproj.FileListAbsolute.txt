@@ -1,0 +1,7 @@
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\bin\Debug\HomeWork_Lesson1_2.exe.config
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\bin\Debug\HomeWork_Lesson1_2.exe
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\bin\Debug\HomeWork_Lesson1_2.pdb
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\obj\Debug\HomeWork_Lesson1_2.csproj.CoreCompileInputs.cache
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\obj\Debug\HomeWork_Lesson1_2.exe
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\obj\Debug\HomeWork_Lesson1_2.pdb
+C:\Users\Никола\source\repos\HomeWork_Lesson1_2\obj\Debug\HomeWork_Lesson1_2.csprojAssemblyReference.cache
